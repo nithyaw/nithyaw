@@ -1,8 +1,6 @@
 <div align="center">
 
-# Nithya Sree
-
-Software Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nithya+Sree" alt="Typing SVG" />
 
 <a href="https://linkedin.com/in/nithyaww/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/nithyaw"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
@@ -14,9 +12,7 @@ Software Engineer &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; AI Enthusiast
 
 ## About
 
-Software Engineer with a foundation in data structures, algorithms, and backend development, and hands-on experience building REST APIs and full-stack systems in Python and JavaScript. Co-founder of Nokto, an AI and web architecture agency, where I design database schemas, API architecture, and production interfaces for client projects. Background also includes data analytics and applied machine learning, including a published research paper on IoT-based diagnostics.
-
-Currently seeking opportunities as a Software Development Engineer, Data Analyst, or AI Engineer.
+Software Engineer passionate about building scalable backend systems, APIs, and data-driven applications. I enjoy solving complex problems using Python, JavaScript, SQL, and modern backend technologies while continuously exploring AI, Data Analytics, and Full Stack Development. I love turning ideas into production-ready applications and writing clean, maintainable code.
 
 <br>
 
