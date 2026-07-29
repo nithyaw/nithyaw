@@ -16,13 +16,13 @@
 
 <br>
 
-## `$ whoami`
+## `whoami`
 
 Software Engineer passionate about building scalable backend systems, APIs, and data-driven applications. I enjoy solving complex problems using Python, JavaScript, SQL, and modern backend technologies while continuously exploring AI, Data Analytics, and Full Stack Development. I love turning ideas into production-ready applications and writing clean, maintainable code.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
 
-## `$ background`
+## `background`
 
 - B.Tech in Electronics and Communication Engineering, Sreenidhi Institute of Science and Technology (2021 to 2025), CGPA 8.3
 - Co-Founder and UI/Backend Designer, Nokto — AI and Web Architecture Agency, Hyderabad
@@ -33,7 +33,7 @@ Software Engineer passionate about building scalable backend systems, APIs, and 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
 
-## `$ skills`
+## `skills`
 
 **Languages and Backend**
 
@@ -53,7 +53,7 @@ Software Engineer passionate about building scalable backend systems, APIs, and 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
 
-## `$ projects`
+## `projects`
 
 **Mario SkillSync+ Adventure** — Hackathon project, placed 6th
 Built with FastAPI, Gemini API, and Render. A backend-driven web application with secure authentication and skill-progression tracking, featuring a Gemini API chatbot that guides users through their learning journey. Deployed to production on Render.
@@ -63,7 +63,7 @@ Built with Python, scikit-learn, Flask, and Arduino/IoT. A non-invasive diabetes
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
 
-## `$ github-stats`
+## `github-stats`
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Built with Python, scikit-learn, Flask, and Arduino/IoT. A non-invasive diabetes
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
 
-## `$ certifications`
+## `certifications`
 
 - AI/ML Virtual Internship — Google for Developers (AICTE)
 - AWS Cloud Virtual Internship — AWS and AICTE
