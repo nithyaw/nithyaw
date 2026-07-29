@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1a0508&height=3" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Nithya+Sree" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DC143C&background=0D1117&center=true&vCenter=true&width=500&height=90&lines=Hi%2C+I'm+Nithya+Sree" alt="Typing SVG" />
+<sub>Software Engineer</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0508,100:0D1117&height=3" width="100%"/>
-
-<br>
+<br><br>
 
 <a href="https://linkedin.com/in/nithyaww/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/nithyaw"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
@@ -16,11 +14,13 @@
 
 <br>
 
+---
+
 ## `whoami`
 
 Software Engineer passionate about building scalable backend systems, APIs, and data-driven applications. I enjoy solving complex problems using Python, JavaScript, SQL, and modern backend technologies while continuously exploring AI, Data Analytics, and Full Stack Development. I love turning ideas into production-ready applications and writing clean, maintainable code.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
+---
 
 ## `background`
 
@@ -31,7 +31,7 @@ Software Engineer passionate about building scalable backend systems, APIs, and 
 - Co-author, published research paper on non-invasive IoT-based diabetes diagnosis
 - Placed 6th at a hackathon for a full-stack application with an integrated AI chatbot
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
+---
 
 ## `skills`
 
@@ -51,7 +51,7 @@ Software Engineer passionate about building scalable backend systems, APIs, and 
 
 <img src="https://skillicons.dev/icons?i=aws" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
+---
 
 ## `projects`
 
@@ -61,7 +61,7 @@ Built with FastAPI, Gemini API, and Render. A backend-driven web application wit
 **Breath to Detect: ML-Powered Diabetic Diagnosis** — Published research paper
 Built with Python, scikit-learn, Flask, and Arduino/IoT. A non-invasive diabetes diagnosis system using breath acetone, temperature, humidity, BMI, and age as predictive features. Built the complete pipeline from Arduino sensor data collection through data cleaning and normalization to a trained SVM classifier deployed in a real-time Flask application, achieving 93.33 percent accuracy on real-time test data.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
+---
 
 ## `github-stats`
 
@@ -72,7 +72,7 @@ Built with Python, scikit-learn, Flask, and Arduino/IoT. A non-invasive diabetes
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:DC143C,100:0D1117&height=2" width="100%"/>
+---
 
 ## `certifications`
 
