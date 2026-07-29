@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Nithya+Sree" alt="Typing SVG" />
 
-<sub>Software Engineer</sub>
-
-<br><br>
-
 <a href="https://linkedin.com/in/nithyaww/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/nithyaw"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:nithyasree7777777@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
