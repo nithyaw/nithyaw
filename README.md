@@ -1,91 +1,44 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:8B0000&height=180&section=header&text=Jai%20Vishnu%20Vardhan%20Rao&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20Data&descAlignY=58&descSize=16" width="100%"/>
-
-<a href="https://github.com/nithyaw">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+at+the+intersection+of+Full-Stack+%26+AI;Shipping+Quantix+%E2%80%94+AI-driven+end-to-end+solutions;Learning+by+building%2C+not+just+reading;RAG+%7C+Generative+AI+%7C+FastAPI+%7C+React;&font=Fira+Code&center=true&width=600&height=45&color=B22222&vCenter=true&size=20&pause=1200" />
-</a>
-
-</div>
-
+### 💫 About Me:
 ---
+Hello! I'm Nithya Sree 👋
+I'm a Software Development Engineer with a strong foundation in Data Structures, Algorithms, Object-Oriented Design, and distributed backend systems. I enjoy designing and building scalable, fault-tolerant RESTful APIs and services using Python, JavaScript, SQL, Django, and Node.js — and I'm growing my focus toward Data Analytics and Full Stack Development.
+Currently Co-Founder & UI/Backend Designer at **Nokto**, an AI and web architecture agency, where I design database schemas, REST API architecture, and lead UI/UX across client projects. I also co-authored a published research paper on an IoT-based, non-invasive diabetes diagnosis system.
 
-### 🩸 About Me
-
-I sit at the intersection of **Full-Stack Development**, **AI/ML**, and **Data Analysis**. I learn best by building — not just reading about advancements.
-
-Right now that means:
-- 🔍 Extracting and analyzing data with **SQL** and **Python**
-- 🧠 Building **RAG architectures** and working with Generative AI models
-- 🎨 Deploying sleek interfaces in **React** and **Flutter**, backed by **FastAPI** and **Node.js**
-- 🚀 Building **Quantix** — end-to-end, AI-driven solutions
-
+### 🌐 Socials:
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithyaww/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nithyaw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithyasree7777777@gmail.com)
 
-### ⚙️ Tech Arsenal
-
-<div align="center">
-
-**Languages & Core**
-<br/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=B22222" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=B22222" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=B22222" />
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=B22222" />
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=B22222" />
-
-**Backend & AI**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=B22222" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=B22222" />
-<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=B22222" />
-
-**Data & Infra**
-<br/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=B22222" />
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=B22222" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=B22222" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=B22222" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=B22222" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=B22222" />
-
-</div>
-
+### 💻 Tech Stack:
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-### 📡 Connect
-
-<div align="center">
-
-<!-- Replace the # below with your real profile URLs -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B22222" /></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=B22222" /></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B22222" /></a>
-
-</div>
-
+### 🚀 Featured Projects:
 ---
+- **Mario SkillSync+ Adventure** — Backend-driven web app with secure auth, skill-progression tracking, and a Gemini API-powered chatbot. 🏆 6th place at hackathon. `FastAPI` `Gemini API` `Render`
+- **Breath to Detect: ML-Powered Diabetic Diagnosis** — Published research on a non-invasive, IoT-based diabetes diagnosis system using an SVM classifier, achieving 93.33% real-time accuracy. `Python` `scikit-learn` `Flask` `Arduino/IoT`
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nithyaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=B22222&icon_color=B22222&text_color=CCCCCC&bg_color=0D0D0D&border_color=8B0000" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithyaw&hide_border=true&background=0D0D0D&stroke=8B0000&ring=B22222&fire=B22222&currStreakLabel=CCCCCC&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithyaw&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=CCCCCC&border_color=8B0000" height="170"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithyaw&bg_color=0D0D0D&color=B22222&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
-
+### 📊 GitHub Stats:
 ---
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0D0D0D&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nithyaw&theme=dark&show_icons=true&hide_border=false&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithyaw&theme=dark&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithyaw&theme=dark&show_icons=true&hide_border=false&layout=compact" height="170" />
 </div>
