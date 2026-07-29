@@ -39,6 +39,6 @@ Currently Co-Founder & UI/Backend Designer at **Nokto**, an AI and web architect
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nithyaw&theme=dark&show_icons=true&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithyaw&theme=dark&hide_border=false" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=nithyaw&theme=dark&hide_border=false" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithyaw&theme=dark&show_icons=true&hide_border=false&layout=compact" height="170" />
 </div>
