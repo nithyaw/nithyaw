@@ -61,9 +61,7 @@ Built with Python, scikit-learn, Flask, and Arduino/IoT. A non-invasive diabetes
 
 ## `github-stats`
 
-<div align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=nithyawt&theme=dark)" />
-</div>
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=nithyaw&theme=dark)
 
 ---
 
