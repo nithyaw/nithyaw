@@ -18,17 +18,6 @@ Software Engineer passionate about building scalable backend systems, APIs, and 
 
 ---
 
-## `background`
-
-- B.Tech in Electronics and Communication Engineering, Sreenidhi Institute of Science and Technology (2021 to 2025), CGPA 8.3
-- Co-Founder and UI/Backend Designer, Nokto — AI and Web Architecture Agency, Hyderabad
-- Data Analyst Intern, Aqua Pzone Enterprises — automated data processing and reporting workflows in Python and SQL
-- Web Development Intern, CollegeTips.in — built and integrated REST APIs in Node.js and Express
-- Co-author, published research paper on non-invasive IoT-based diabetes diagnosis
-- Placed 6th at a hackathon for a full-stack application with an integrated AI chatbot
-
----
-
 ## `skills`
 
 **Languages and Backend**
@@ -47,6 +36,20 @@ Software Engineer passionate about building scalable backend systems, APIs, and 
 
 <img src="https://skillicons.dev/icons?i=aws" />
 
+## `github-stats`
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=nithyaw&theme=dark)
+
+---
+## `background`
+
+- B.Tech in Electronics and Communication Engineering, Sreenidhi Institute of Science and Technology (2021 to 2025), CGPA 8.3
+- Co-Founder and UI/Backend Designer, Nokto — AI and Web Architecture Agency, Hyderabad
+- Data Analyst Intern, Aqua Pzone Enterprises — automated data processing and reporting workflows in Python and SQL
+- Web Development Intern, CollegeTips.in — built and integrated REST APIs in Node.js and Express
+- Co-author, published research paper on non-invasive IoT-based diabetes diagnosis
+- Placed 6th at a hackathon for a full-stack application with an integrated AI chatbot
+___
 ---
 
 ## `projects`
@@ -58,13 +61,6 @@ Built with FastAPI, Gemini API, and Render. A backend-driven web application wit
 Built with Python, scikit-learn, Flask, and Arduino/IoT. A non-invasive diabetes diagnosis system using breath acetone, temperature, humidity, BMI, and age as predictive features. Built the complete pipeline from Arduino sensor data collection through data cleaning and normalization to a trained SVM classifier deployed in a real-time Flask application, achieving 93.33 percent accuracy on real-time test data.
 
 ---
-
-## `github-stats`
-
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=nithyaw&theme=dark)
-
----
-
 ## `certifications`
 
 - AI/ML Virtual Internship — Google for Developers (AICTE)
